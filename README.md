@@ -7,8 +7,7 @@ Currently I'm developing my portfolio website and studying for the CompTIA Secur
 Contact Me! 
 
 ![Linkedin Badge](https://img.shields.io/badge/-FlyingKoala01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-iglesias-vila-0b6074234/)
-![Twitter Badge](https://img.shields.io/badge/-@FlyingKoala01-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/FlyingKoala01])
-[![Gmail Badge](https://img.shields.io/badge/-isaac.iglesias.vila@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaac.iglesias.vila19@gmail.com)](mailto:isaac.iglesias.vila19@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-isaac@isaaciglesias.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaac@isaaciglesias.net)](mailto:isaac@isaaciglesias.net)
 
 Also add me on Discord! **FlyingKoala#1509**
 

@@ -1,12 +1,12 @@
 ### Hey this is Isaac! 👋👽🐨
 
-I'm an ICT Engineering student in Manresa, Spain. Interested in web development and cybersecurity, hoping to persue a career in any of these two branches!
+I'm an ICT Engineering student in Manresa, Spain. Interested in Cybersecurity, offensive and defensive!
 
-Currently I'm diving into the CTF World and solving HackTheBox machines! In a near future I intend to obtain different cybersecurity certificates (from Security+ to OSCP).
+Currently I'm diving into the CTF World and solving HackTheBox machines! In a near future I intend to obtain different cybersecurity certificates (from eJPT to OSCP).
 
 Feel free to contact me if you want to build something together! 
 
-![Linkedin Badge](https://img.shields.io/badge/-IsaacIglesiasVila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-iglesias-vila-0b6074234/)
+![Linkedin Badge](https://img.shields.io/badge/-IsaacIglesiasVila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaac-iglesias-vila/)
 [![Gmail Badge](https://img.shields.io/badge/-isaac@isaaciglesias.net-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaac@isaaciglesias.net)](mailto:isaac@isaaciglesias.net)
 
 Also add me on Discord! **FlyingKoala#1509**
